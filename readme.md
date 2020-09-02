@@ -1,10 +1,15 @@
 
 ![python logo](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
 
-Welcome to the python language repository. This repo is the lessons and notes taken, consumed and regurgitated for personal refrerence from many other available knowledge bases. If you have stumbled here and are having a sniff around I hope you find the notes of sime use, not too bloaty or without some context to the snippets and examples found in the notebooks. 
+Welcome to my python programming language repository. 
 
-Most resources are typically laid out fairly siumilarly, section 1 what is python and where to find it, section two how to install it, tghe more adventurous might even tackle anaconda, conda, pyenv, virtual env. I am making no such assumptions, nor am I even attempting to bring something new to the realm. If you're here chances are I'm not your first dance with python, you're probably already installed and setup and if not then there are a million brilliant walkthroughs the tap of a 'return key' once you've entered "Setup python for programming" into a google search bar. 
+#### What is this repo? 
+This repo is the culmination of online lessons, subsequent notes taken, hand built examples and personal slants on the concepts and info. I am not a professional author therefore I don't consider this to be a literary work. Some of what you might read is consumed and regurgitated examples for my own personal reference from texts of many other available knowledge bases. If you have stumbled here and are having a sniff around I hope you find the notes of some use, not too bloaty or without some context to the snippets and examples found in the notebooks. 
 
+#### What this repo isn't.
+Most resources are typically laid out fairly similarly, `Section 1 what is python and where to find it`, `Section two how to install it`, the more adventurous might even tackle `Anaconda`, `conda`, `pyenv`, `virtualenv`. I am making no such assumptions, nor am I even attempting to bring something new to the realm with any alternate spins on what's out there already. If you're here chances are I'm not your first dance with Python, you're probably already installed and setup and if not then there are a million brilliant walkthroughs at the tap of a 'return key' once you've entered "Setup python for programming" into a Google search bar on Chrome or your preferred browser. 
+
+#### Show me the code
 With that cleared up, this repo is ordered in the following fashion: 
 
 - Section Three: Python Objects & Data Structure basics

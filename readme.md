@@ -30,3 +30,14 @@ With that cleared up, this repo is ordered in the following fashion:
     - 3.10 Sets
     - 3.11 Booleans
     - 3.12 Basic file I/O
+
+- Section Four: Python comparison operators 
+    - comparison operators
+    - chaining with logical operators
+
+- Section Five: Python statements 
+    - 5.01 `if, elif` & `else` statememts in Python
+    - 5.02 `for` loops in Python
+    - 5.03 `while` loops in Python
+    - 5.04 Useful operators in Python
+    - 5.05 List comprehension

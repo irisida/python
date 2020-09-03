@@ -12,12 +12,6 @@ Most resources are typically laid out fairly similarly, `Section 1 what is pytho
 #### Show me the code
 With that cleared up, this repo is ordered in the following fashion: 
 
-- Section One: What is python?
-    - [Python Programming Language Documentation](https://www.python.org/doc/)
-
-- Section Two: Setting up python on your machine
-    - [Installation Guides](https://realpython.com/installing-python/)
-
 - Section Three: Python Objects & Data Structure basics
     - 3.01 Introduction to Python Data Types
     - 3.02 Python Numbers
@@ -28,5 +22,6 @@ With that cleared up, this repo is ordered in the following fashion:
     - 3.07 Lists
     - 3.08 Dictionaries
     - 3.09 Tuples
-    - 3.10 Booleans
-    - 3.11 Basic file I/O
+    - 3.10 Sets
+    - 3.11 Booleans
+    - 3.12 Basic file I/O

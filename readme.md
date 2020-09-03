@@ -11,6 +11,11 @@ Most resources are typically laid out fairly similarly, `Section 1 what is pytho
 
 #### Show me the code
 With that cleared up, this repo is ordered in the following fashion: 
+- Section One: What is Python?
+    - [Python is a programming language](https://www.python.org/about/)
+
+- Section Two: How do I setup my machine to run Python?
+    - [Setup python on your machine](https://realpython.com/installing-python/)
 
 - Section Three: Python Objects & Data Structure basics
     - 3.01 Introduction to Python Data Types

@@ -41,3 +41,8 @@ With that cleared up, this repo is ordered in the following fashion:
     - 5.03 `while` loops in Python
     - 5.04 Useful operators in Python
     - 5.05 List comprehension
+
+- Section Six: Methods & functions in Python
+    - 6.01 Methods & functions in Python
+    - 6.02 `*args` & `**kwargs` in Python
+    - 6.03 map & filter in Python

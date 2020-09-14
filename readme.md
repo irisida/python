@@ -43,6 +43,7 @@ With that cleared up, this repo is ordered in the following fashion:
     - 5.05 List comprehension
 
 - Section Six: Methods & functions in Python
-    - 6.01 Methods & functions in Python
-    - 6.02 `*args` & `**kwargs` in Python
-    - 6.03 map & filter in Python
+    - 6.01 Object methods in Python
+    - 6.02 Functions in Python
+    - 6.03 `*args` & `**kwargs` in Python
+    - 6.04 map & filter in Python
